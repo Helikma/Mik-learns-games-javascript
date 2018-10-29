@@ -1,4 +1,4 @@
-# Mik-learns-games-javascript
+# Mike-learns-games-javascript
 Independently taught self project to further personal education :)
 
 
